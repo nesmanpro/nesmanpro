@@ -1,11 +1,16 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
 </div>
 <div id="body" align="center">
   
 # 💫 About Me:
-🔭 I’m currently working as senior marketer at OZ-Hami<br>🌱 I’m currently learning JavaScript, React.js and Python<br>💬 Ask me about Photography, Films and Food (love cooking)<br>
+🔭 I’m currently working as senior marketer at <a href="https://oz-hami.nl/en/">OZ-Hami</a><br>🌱 I’m currently learning JavaScript, React.js and Python<br>I've been a visual artist for over 15 years, and let me tell you, it's been a wild ride! One thing I've learned is how to make quick decisions under pressure and come up with fresh ideas by combining different fields.
+
+I'm super organized, which helps me stay on top of my game. And when faced with a challenge, I don't back down - I take it on headfirst! I've worked in a bunch of different areas like graphic design, videography, photography, and art direction, so I know how to play well with others and also work independently when needed.
+
+I'm a bit of a jack-of-all-trades, and I can learn new skills and adapt to different situations pretty quickly. Meeting deadlines, solving problems, and reaching new goals are some of my favorite things to do. All in all, I'm a laid-back but ambitious artist who's ready to take on whatever comes my way!<br>
+💬 Ask me about Photography, Films Hey there!<br>
 
 
 ## 🌐 Socials:
