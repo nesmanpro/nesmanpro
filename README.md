@@ -9,7 +9,7 @@
 
 Hey there! I've been a visual artist for over 15 years, and let me tell you, it's been a wild ride! One thing I've learned is how to make quick decisions under pressure and come up with fresh ideas by combining two or more ﬁelds creating something new at the intersections, rapid learning and quick adaptability transferring skills across diﬀerent disciplines.
 
-I'm studing fullstack development, which will help me staying on top of the game. I've worked in a bunch of different areas like graphic design, videography, photography, marketing and art direction, that made me know play well with others and also work independently when needed. All in all, I'm a laid-back but ambitious artist who's ready to take on whatever comes my way!!<br>
+I'm studing fullstack development, which will help me staying on top of the game. I've worked in a bunch of different areas like graphic design, videography, photography, marketing and art direction, therefore made me know how to play well with others and also work independently when needed. All in all, I'm a laid-back but ambitious artist who's ready to take on whatever comes my way!!<br>
 <br>
 
   
