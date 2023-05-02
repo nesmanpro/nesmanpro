@@ -1,4 +1,5 @@
-# Hello world, I'm Lucas BamBam 👋
+# 🚀Lucas BamBam
+**`Digital Craftsman (Developer/Photographer/Designer/ContentCreator)`**
 <div id="header" align="left">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMzOWE4NTdkYjY4ZjRkM2FkNWFiZDc5ZTZhMWViYzkwNDEwZWFhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
@@ -12,7 +13,7 @@ I'm a bit of a jack-of-all-trades, and I can learn new skills and adapt to diffe
 💬 Ask me about Photography, Films Hey there!<br>
 
 
-## 🚀 Follow me on:
+## 🛸 Follow me on:
 [![Instagram](https://img.shields.io/badge/Instagram-@nesmanpro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro)
 [![Facebook](https://img.shields.io/badge/Facebook-@nesmanpro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/nesmanpro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nesmanpro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucasroquecugiani)
@@ -21,7 +22,7 @@ I'm a bit of a jack-of-all-trades, and I can learn new skills and adapt to diffe
   
 ---
         
-## 💻 Tech Stack:
+## 🧰 Languages and Tools:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
