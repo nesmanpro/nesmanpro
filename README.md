@@ -1,5 +1,7 @@
 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100"/>
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working as senior marketer at OZ-Hami<br>🌱 I’m currently learning JavaScript, React.js and Python<br>💬 Ask me about Photography, Films and Food (love cooking)<br>
