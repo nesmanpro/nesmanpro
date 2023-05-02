@@ -7,11 +7,9 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMzOWE4NTdkYjY4ZjRkM2FkNWFiZDc5ZTZhMWViYzkwNDEwZWFhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
   
 
-I've been a visual artist for over 15 years, and let me tell you, it's been a wild ride! One thing I've learned is how to make quick decisions under pressure and come up with fresh ideas by combining different fields.
+Hey there! I've been a visual artist for over 15 years, and let me tell you, it's been a wild ride! One thing I've learned is how to make quick decisions under pressure and come up with fresh ideas by combining two or more ﬁelds creating something new at the intersections, rapid learning and quick adaptability transferring skills across diﬀerent disciplines.
 
-I'm super organized, which helps me stay on top of my game. And when faced with a challenge, I don't back down - I take it on headfirst! I've worked in a bunch of different areas like graphic design, videography, photography, and art direction, so I know how to play well with others and also work independently when needed.
-
-I'm a bit of a jack-of-all-trades, and I can learn new skills and adapt to different situations pretty quickly. Meeting deadlines, solving problems, and reaching new goals are some of my favorite things to do. All in all, I'm a laid-back but ambitious artist who's ready to take on whatever comes my way!<br>
+I'm studing fullstack development, which will help me staying on top of the game. I've worked in a bunch of different areas like graphic design, videography, photography, marketing and art direction, that made me know play well with others and also work independently when needed. All in all, I'm a laid-back but ambitious artist who's ready to take on whatever comes my way!!<br>
 <br>
 
   
