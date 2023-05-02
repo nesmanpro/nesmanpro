@@ -1,8 +1,9 @@
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg1NWVlYmYzMDQzNmI3YzhkNTY1YjRhNjBkZjg4NzcwN2E4NThkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="100"/>
 </div>
-
+<div id="body" align="center">
+  
 # 💫 About Me:
 🔭 I’m currently working as senior marketer at OZ-Hami<br>🌱 I’m currently learning JavaScript, React.js and Python<br>💬 Ask me about Photography, Films and Food (love cooking)<br>
 
@@ -16,7 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=nesmanpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nesmanpro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nesmanpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+  
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=nesmanpro&icon=0&color=0)](https://visitcount.itsvg.in)
 
