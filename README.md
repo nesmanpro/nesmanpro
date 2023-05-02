@@ -12,10 +12,12 @@ I'm a bit of a jack-of-all-trades, and I can learn new skills and adapt to diffe
 💬 Ask me about Photography, Films Hey there!<br>
 
 
-## 🚀 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nesmanpro)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nesmanpro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasroquecugiani) 
+## 🚀 Follow me on:
+[![Instagram](https://img.shields.io/badge/Instagram-@nesmanpro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro)
+[![Facebook](https://img.shields.io/badge/Facebook-@nesmanpro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/nesmanpro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nesmanpro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucasroquecugiani)
+[![Web](https://img.shields.io/badge/Web-nesmanpro.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://nesmanpro.com) 
+  
   
 ---
         
