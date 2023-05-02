@@ -19,7 +19,7 @@ I'm studing fullstack development, which will help me staying on top of the game
 [![Facebook](https://img.shields.io/badge/Facebook-@nesmanpro-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/nesmanpro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nesmanpro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucasroquecugiani)
 [![Web](https://img.shields.io/badge/Web-nesmanpro.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://nesmanpro.com) 
-  
+ 
 
   
         
@@ -35,6 +35,8 @@ I'm studing fullstack development, which will help me staying on top of the game
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)]()
 [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]()
+
+and more coming soon...
   
 
 
