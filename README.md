@@ -1,6 +1,6 @@
 # 🚀Lucas BamBam
   
-**`Digital Craftsman (Developer/Designer/ContentCreator/Art Director)`**
+**`Digital Craftsman (Developer/Designer/Content Creator/Art Director)`**
   
 <div id="header" align="left">
 
