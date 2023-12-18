@@ -20,9 +20,9 @@ I'm a frontend developer studing backend development, which will help me staying
 
 
 <br>
+#### [![instagram](https://img.shields.io/badge/Instagram-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 <br>
 #### [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro)
-#### [![instagram](https://img.shields.io/badge/Instagram-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
 <br>
   
 ## 🧰 Languages and Tools:
