@@ -50,10 +50,8 @@ I'm a frontend developer studing backend development, which will help me staying
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=nesmanpro&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nesmanpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=nesmanpro&theme=tokyonight&hide_border=false)]()<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nesmanpro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)]()
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nesmanpro@gmail.com) 
 
 </div>
