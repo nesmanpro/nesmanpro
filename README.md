@@ -18,11 +18,13 @@ I'm a frontend developer studing backend development, which will help me staying
 ## 🛸 Follow me on:
 #### [![Instagram](https://img.shields.io/badge/Instagram-@nesmanpro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nesmanpro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucasroquecugiani) [![Behance](https://img.shields.io/badge/Behance-@nesmanpro-1877F2?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.com/nesmanpro) [![Web](https://img.shields.io/badge/Web-nesmanpro.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://nesmanpro.com) 
 
+## 🛸 Follow me on:
+#### [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nesmanpro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucasroquecugiani) [![Behance](https://img.shields.io/badge/Behance-1877F2.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.com/nesmanpro) [![Website](https://img.shields.io/badge/Website-14a1f0.svg?style=for-the-badge&logo=Website&logoColor=white)](https://nesmanpro.com) 
 
+## 🛸 Follow me on:
+#### [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucasroquecugiani) [![Behance](https://img.shields.io/badge/Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.com/nesmanpro) [![Web](https://img.shields.io/badge/Website-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://nesmanpro.com) 
 
-[![instagram](https://img.shields.io/badge/Instagram-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white)]
-<br>
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]
+![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)
 <br>
   
 ## 🧰 Languages and Tools:
