@@ -14,13 +14,13 @@ I'm a frontend developer studing backend development, which will help me staying
  
 ####
    
-## 🛸 Follow me on:
+## 🛸 Follow me on :
 #### [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nesmanpro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucasroquecugiani) [![Behance](https://img.shields.io/badge/Behance-1877F2.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.com/nesmanpro) [![Website](https://img.shields.io/badge/Website-14a1f0.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://nesmanpro.com) 
 
 
 <br>
   
-## 🧰 Languages:
+## 🧰 Languages :
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)]()
