@@ -35,7 +35,10 @@ I'm a frontend developer studing backend development, which will help me staying
 [![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
-</br>
+
+
+<br>
+  
 ## 🔧 and Tools:
 [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]()
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)]()
