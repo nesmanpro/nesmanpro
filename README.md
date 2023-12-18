@@ -32,8 +32,8 @@ I'm a frontend developer studing backend development, which will help me staying
 [![NPM](https://img.shields.io/badge/NPM-red.svg?style=for-the-badge&logo=NPM&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
 [![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)]()
-[![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)]()
-[![Express](https://img.shields.io/badge/express-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
 </br>
 [![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]()
