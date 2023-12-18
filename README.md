@@ -19,7 +19,11 @@ I'm a frontend developer studing backend development, which will help me staying
 #### [![Instagram](https://img.shields.io/badge/Instagram-@nesmanpro-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nesmanpro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucasroquecugiani) [![Behance](https://img.shields.io/badge/Behance-@nesmanpro-1877F2?style=for-the-badge&logo=behance&logoColor=white&labelColor=101010)](https://www.behance.com/nesmanpro) [![Web](https://img.shields.io/badge/Web-nesmanpro.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://nesmanpro.com) 
 
 
-<br><br><br>
+<br>
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/nesmanpro)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E34F26.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+<br>
   
 ## 🧰 Languages and Tools:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
