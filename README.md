@@ -35,6 +35,7 @@ I'm a frontend developer studing backend development, which will help me staying
 [![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![JWT](https://img.shields.io/badge/JWT-%234ea94b.svg?style=for-the-badge&logo=JWT&logoColor=white)]()
 
 #### and more are coming...
 
