@@ -7,9 +7,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMzOWE4NTdkYjY4ZjRkM2FkNWFiZDc5ZTZhMWViYzkwNDEwZWFhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
   
 ##
-Hey there! I've been a visual artist for over 15 years, and let me tell you it's been a wild ride! One thing I've learned is how to make quick decisions under pressure and come up with fresh ideas by combining two or more ﬁelds creating something new at the intersections, rapid learning and quick adaptability transferring skills across diﬀerent disciplines.
-
-I'm a frontend developer studing backend development, which will help me staying on top of the game. I've worked in a bunch of different areas like graphic design, videography, photography, marketing and art direction, therefore made me know how to play well with others and also work independently when needed. All in all, I'm a laid-back but ambitious artist who's ready to take on whatever comes my way!!<br>
+Hey there! I've been a visual artist with over 15 years of experience in graphic design, digital marketing, and web development, I bring a rich blend of creative and technical skills to the table. My recent transition into full-stack development, mastering both front-end frameworks like React, Next.js, Vite, Tailwind CSS, GSAP, Three.js and Framer Motion, and backend technologies such as NodeJS, mongoDB, ExpressJS, NestJS, JWT, Socket.io, Dockers, K8s, Swagger, Mocha and Chai, that has equipped me to tackle complex challenges and deliver innovative solutions. I'm passionate about continuous learning and excited to contribute to a dynamic team with my diverse expertise and commitment to excellence.<br>
 <br>
  
 ####
@@ -28,7 +26,6 @@ I'm a frontend developer studing backend development, which will help me staying
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)]()
-[![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)]()
 [![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
 [![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)]()
