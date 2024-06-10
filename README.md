@@ -7,7 +7,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMzOWE4NTdkYjY4ZjRkM2FkNWFiZDc5ZTZhMWViYzkwNDEwZWFhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300"/>
   
 ##
-Hey there! I've been a visual artist with over 15 years of experience in graphic design, digital marketing, and web development, I bring a rich blend of creative and technical skills to the table. My recent transition into full-stack development, mastering both front-end frameworks like React, Next.js, Vite, Tailwind CSS, GSAP, Three.js and Framer Motion, and backend technologies such as NodeJS, mongoDB, ExpressJS, NestJS, JWT, Socket.io, Dockers, K8s, Swagger, Mocha and Chai, that has equipped me to tackle complex challenges and deliver innovative solutions. I'm passionate about continuous learning and excited to contribute to a dynamic team with my diverse expertise and commitment to excellence.<br>
+Hey there! I'm a visual artist with over 15 years of experience in graphic design, digital marketing, and web development, I bring a rich blend of creative and technical skills to the table. My recent transition into full-stack development, mastering both front-end frameworks like React, Next.js, Vite, Tailwind CSS, GSAP, Three.js and Framer Motion, and backend technologies such as NodeJS, mongoDB, ExpressJS, NestJS, JWT, Socket.io, Dockers, K8s, Swagger, Mocha and Chai, that has equipped me to tackle complex challenges and deliver innovative solutions. I'm passionate about continuous learning and excited to contribute to a dynamic team with my diverse expertise and commitment to excellence.<br>
 <br>
  
 ####
